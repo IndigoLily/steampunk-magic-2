@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/fabric_loader_dependencies.pw.toml"
+hash = "c366283309facef4f1795f134eb97ed27845f0c8e926143c215f0ffbd908be99"
+metafile = true
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "4d0eb25d1b5ba1f44cc9c568f8ba8ee88003b371a22ce397994a4e6cbf57ba32"
 metafile = true
@@ -588,6 +593,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "8c8ff7793de210cbe8f481341cd4c9c97d5b26117bd8ad368c8e5cfb80c1f082"
+metafile = true
+
+[[files]]
+file = "mods/symbols-n-stuff.pw.toml"
+hash = "7d86adc147722e14ad758c05196744505eeee59af072b84e2494780959b66e8e"
 metafile = true
 
 [[files]]

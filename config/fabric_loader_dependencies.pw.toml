@@ -1,0 +1,8 @@
+name = "Fabric Loader Dependencies Override"
+filename = "fabric_loader_dependencies.json"
+side = "client"
+
+[download]
+url = "https://lilyc.gay/steampunk-magic-2/config/fabric_loader_dependencies.json"
+hash-format = "sha512"
+hash = "5c1f4dd9ea6c95e722bb52cb608783c54df9288425ed031a10ef40f6ab22f422a0730151ee7f9a5f3658145bf027666c3825c95a2039aeb5204753da5dfc661a"
