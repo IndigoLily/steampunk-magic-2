@@ -1,0 +1,13 @@
+name = "Chunky Extension"
+filename = "chunky_extended-2.1.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/LFJf0Klb/versions/FyCBGvsX/chunky_extended-2.1.1.jar"
+hash-format = "sha512"
+hash = "346a1a781697f77776873d3b6342a9e0abbaefd1f583066c52e2f208ff156c99b2fdc63bdcd65b3b75ae2e1dad28c3053a9b32643695ce587a219180ec1349ab"
+
+[update]
+[update.modrinth]
+mod-id = "LFJf0Klb"
+version = "FyCBGvsX"

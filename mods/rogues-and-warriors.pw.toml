@@ -1,0 +1,13 @@
+name = "Rogues & Warriors (RPG Series)"
+filename = "rogues-1.1.0+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3MKqoGuP/versions/Zv9heBzC/rogues-1.1.0%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "619289546554549092c0fedc1bc9893bc8ac9681a81dc640cc5b6f5e7051ffeed3c2765a44f00cceb371e5c32ca03881b90ec845af74e5a958338710fe242fd8"
+
+[update]
+[update.modrinth]
+mod-id = "3MKqoGuP"
+version = "Zv9heBzC"

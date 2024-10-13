@@ -1,0 +1,13 @@
+name = "Jupiter"
+filename = "Jupiter-1.0-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XbiLGMMU/versions/elRfRGl9/Jupiter-1.0-fabric.jar"
+hash-format = "sha512"
+hash = "f06fc22883df43b430fccddc980784e529298d441d69fec8f7b54227329db4a3d1090257b67e4f7535293b5583e4c58db328eb8594c715447d484c178b832dda"
+
+[update]
+[update.modrinth]
+mod-id = "XbiLGMMU"
+version = "elRfRGl9"

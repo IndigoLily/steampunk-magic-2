@@ -1,0 +1,13 @@
+name = "Bewitchment"
+filename = "bewitchment-1.20-9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AKbBSvuC/versions/CkxkH8mg/bewitchment-1.20-9.jar"
+hash-format = "sha512"
+hash = "1bdba08a26b57f127310f219528350e36440907415f81c93b83a78cb12c7de70e747e87d043ba22c8b3c8e0053544b10bdd6f36094e9e9b001edbb2d52b1c3cf"
+
+[update]
+[update.modrinth]
+mod-id = "AKbBSvuC"
+version = "CkxkH8mg"

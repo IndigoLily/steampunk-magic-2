@@ -1,0 +1,13 @@
+name = "Clickthrough 2.0"
+filename = "clickthrough-0.0.2-1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ERHOxvaH/versions/Z3d7LN8h/clickthrough-0.0.2-1.20.1.jar"
+hash-format = "sha512"
+hash = "ea18917eac33002e035c5c09966b8f2b62638f4d5e17b148e6bbc14f3b1a27813ef44da010e7b2259c79e6bf4b1d15d3d624b91bb676ee11192c414f0789b824"
+
+[update]
+[update.modrinth]
+mod-id = "ERHOxvaH"
+version = "Z3d7LN8h"

@@ -1,0 +1,13 @@
+name = "Death Backup"
+filename = "deathbackup-1.20.1-3.4.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ot5JFxuv/versions/3JcUGeGH/deathbackup-1.20.1-3.4.jar"
+hash-format = "sha512"
+hash = "d99acbe28840d6bd36752722ebbb3b83ca01b25e165e232ffa7eeb00b334edba421ee2f2c2e15774f714cd12a0b656165538a3ab17747d7948faac270535e809"
+
+[update]
+[update.modrinth]
+mod-id = "Ot5JFxuv"
+version = "3JcUGeGH"

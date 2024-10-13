@@ -1,0 +1,13 @@
+name = "Archers (RPG Series)"
+filename = "archers-1.2.5+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QgooUXAJ/versions/SOJ4DVD4/archers-1.2.5%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "dde9c908c61a247ddf6505d1b7338b864428c743dfde582db7f26e0701eb197818ce0304a20613380c17328676595ef1dbecf41390920758f0a9eb94fe6549f2"
+
+[update]
+[update.modrinth]
+mod-id = "QgooUXAJ"
+version = "SOJ4DVD4"
