@@ -1,0 +1,8 @@
+name = "Almost Unified Config"
+filename = "unify.json"
+side = "server"
+
+[download]
+url = "https://lilyc.gay/steampunk-magic-2/config/almostunified/unify.json"
+hash-format = "sha512"
+hash = "9316b01e7328018ab7569a421cfa9b8c22957cb3288c91c17e2dde337b81244170546d4154777d54daeef39e8b378f6ff1c7dd22a45a4b51682c943ee6532298"

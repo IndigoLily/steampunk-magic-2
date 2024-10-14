@@ -1,0 +1,152 @@
+{
+    "modPriorities": [
+        "minecraft",
+        "kubejs",
+        "crafttweaker",
+        "create",
+        "bewitchment",
+        "iceandfire",
+        "farmersdelight",
+        "createfood",
+        "farmersrespite",
+        "naturalist"
+    ],
+    "stoneStrata": [
+        "stone",
+        "nether",
+        "deepslate",
+        "granite",
+        "diorite",
+        "andesite"
+    ],
+    "tags": [
+        "c:{material}_nuggets",
+        "c:{material}_dusts",
+        "c:{material}_gears",
+        "c:{material}_gems",
+        "c:{material}_ingots",
+        "c:{material}_raw_materials",
+        "c:{material}_ores",
+        "c:{material}_plates",
+        "c:{material}_rods",
+        "c:{material}_blocks",
+        "c:{material}_wires",
+        "c:{material}_storage_blocks",
+        "c:raw_{material}s",
+        "c:raw_{material}_ores",
+        "c:raw_{material}_blocks",
+        "c:raw_{material}_storage_blocks",
+        "c:sugar",
+        "c:eggs",
+        "c:milks"
+    ],
+    "materials": [
+        "aeternium",
+        "aluminum",
+        "amber",
+        "apatite",
+        "bitumen",
+        "brass",
+        "bronze",
+        "charcoal",
+        "chrome",
+        "cinnabar",
+        "coal",
+        "coal_coke",
+        "cobalt",
+        "constantan",
+        "copper",
+        "diamond",
+        "electrum",
+        "elementium",
+        "emerald",
+        "enderium",
+        "fluorite",
+        "gold",
+        "graphite",
+        "invar",
+        "iridium",
+        "iron",
+        "lapis",
+        "lead",
+        "lumium",
+        "mithril",
+        "netherite",
+        "nickel",
+        "obsidian",
+        "osmium",
+        "peridot",
+        "platinum",
+        "potassium_nitrate",
+        "ruby",
+        "salt",
+        "sapphire",
+        "signalum",
+        "silver",
+        "steel",
+        "sugar",
+        "sulfur",
+        "tin",
+        "tungsten",
+        "uranium",
+        "zinc"
+    ],
+    "priorityOverrides": {},
+    "customTags": {
+        "c:silver_ores": [
+            "iceandfire:silver_ore",
+            "iceandfire:deepslate_silver_ore"
+        ],
+        "c:raw_silver_blocks": [
+            "iceandfire:raw_silver_block"
+        ],
+        "c:raw_silver_ores": [
+            "bewitchment:raw_silver",
+            "iceandfire:raw_silver"
+        ],
+        "c:sapphire_gems": [
+            "iceandfire:sapphire_gem",
+            "jewelry:sapphire"
+        ],
+        "c:ores": [
+            "iceandfire:silver_ore",
+            "iceandfire:deepslate_silver_ore",
+            "iceandfire:sapphire_ore",
+            "jewelry:gem_vein",
+            "jewelry:deepslate_gem_vein"
+        ]
+    },
+    "tagOwnerships": {
+        "c:silver_blocks": [
+            "c:storage_blocks/silver"
+        ],
+        "c:silver_ingots": [
+            "c:ingots/silver"
+        ],
+        "c:silver_nuggets": [
+            "c:nuggets/silver"
+        ],
+        "c:copper_nuggets": [
+            "c:nuggets/copper"
+        ],
+        "c:salt_dusts": [
+            "c:salt"
+        ]
+    },
+    "itemTagInheritanceMode": "ALLOW",
+    "itemTagInheritance": {},
+    "blockTagInheritanceMode": "ALLOW",
+    "blockTagInheritance": {},
+    "ignoredTags": [],
+    "ignoredItems": [],
+    "ignoredRecipeTypes": [
+        "cucumber:shaped_tag"
+    ],
+    "ignoredRecipes": [
+        ".*egg_powder_from_.*",
+        ".*powdered_sugar_from_.*",
+        "supplementaries:sugar_cube",
+        "create:crushing/.*_ore"
+    ],
+    "itemsHidingJeiRei": true
+}
