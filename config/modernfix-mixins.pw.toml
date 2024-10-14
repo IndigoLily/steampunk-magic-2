@@ -1,0 +1,8 @@
+name = "Modernfix Config"
+filename = "modernfix-mixins.properties"
+side = "both"
+
+[download]
+url = "https://lilyc.gay/steampunk-magic-2/config/modernfix-mixins.properties"
+hash-format = "sha512"
+hash = "14d41e7222b676e278c683dab8ac70b60f4350bb43e60a031f8092f71d24a9042d6fa3081bea5563ef53acc81cfacc9c71f784cac024a9b22c562917882e8dc8"
