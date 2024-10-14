@@ -1,0 +1,8 @@
+name = "Numismatic Overhaul Config"
+filename = "numismatic-overhaul.json5"
+side = "server"
+
+[download]
+url = "https://lilyc.gay/steampunk-magic-2/config/numismatic-overhaul.json5"
+hash-format = "sha512"
+hash = "6d0277f1c9c941c5d5f2e84f1b4169d9a4711ed11bbb9eda44bff878a3af543c086f215e19271608a02b553b39ff95317bae1e218ff743b487d733acb8c1fc35"
