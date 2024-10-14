@@ -1,0 +1,8 @@
+name = "Supplementaries Client Config"
+filename = "supplementaries-client.json"
+side = "client"
+
+[download]
+url = "https://lilyc.gay/steampunk-magic-2/config/supplementaries-client.json"
+hash-format = "sha512"
+hash = "360f805afd203192696d0b1a9be64cb087716cb38d8ac6dbcdbcbe97d920b3fe7fca75c11209cc857bd14865c80af97953d25d49a13b22ecc393ac30c8ec8984"
