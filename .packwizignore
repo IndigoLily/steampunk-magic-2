@@ -1,2 +1,2 @@
-/config/*
-!/config/*.pw.toml
+/config/**/*
+!/config/**/*.pw.toml
