@@ -1,0 +1,8 @@
+name = "Waystones Config"
+filename = "waystones-common.toml"
+side = "server"
+
+[download]
+url = "https://lilyc.gay/steampunk-magic-2/config/waystones-common.toml"
+hash-format = "sha512"
+hash = "3eb70db49c29c6f1dc4e5eb72d088f68ee8561a830dac02b0981cad9cbd0fac8f50322fa8e23a16c2125b0cb27aaec724039a6dc5cf3e71e8cdd95ad0584fd82"
