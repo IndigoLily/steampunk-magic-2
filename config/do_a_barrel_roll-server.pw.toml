@@ -1,0 +1,8 @@
+name = "Do a Barrel Roll Server Config"
+filename = "do_a_barrel_roll-server.json"
+side = "server"
+
+[download]
+url = "https://lilyc.gay/steampunk-magic-2/config/do_a_barrel_roll-server.json"
+hash-format = "sha512"
+hash = "5e25d1f87236797ca3bf23e526bd8c6d63f1c03d98b72f83c7c20029665a8e99e0c5c02c5de08ae31a7687a9a430d709378d8c844b050f744d06d0dcdf12cf0e"
