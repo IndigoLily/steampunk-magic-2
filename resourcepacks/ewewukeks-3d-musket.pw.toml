@@ -1,0 +1,13 @@
+name = "ewewukek's 3D Musket"
+filename = "ewewukek's ЗD Musket.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "982a44cfb775406bc353eff004e1e02c0155ff96"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5738085
+project-id = 1105756

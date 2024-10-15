@@ -1,0 +1,13 @@
+name = "Better Combat Bewitchment Compatibility (BCBC)"
+filename = "Better-Combat-Bewitchment-Compat.zip"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/rqv8E8n5/versions/qRcVN1VO/Better-Combat-Bewitchment-Compat.zip"
+hash-format = "sha512"
+hash = "90e7a1aa2be26d4c81e83ab8eb08d2b9b511cca6d2eecf72ce8d5ca24979e8f139936572b3034518f8ec054e2928b9e0763614b14ce1f49e3cea4bc0de5da28f"
+
+[update]
+[update.modrinth]
+mod-id = "rqv8E8n5"
+version = "qRcVN1VO"

@@ -1,0 +1,13 @@
+name = "Deactivate Portals"
+filename = "Deactivate-Portals.zip"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/L83JDWD9/versions/bOGaf8Q5/Deactivate-Portals.zip"
+hash-format = "sha512"
+hash = "80c7264d0b155f7100694c1f127140ab3a6339a3dfcd39855cdf39cf4ebd0a9cdb5571f7948fb056524fde675bb368a29684c75b5fe85c0d653d524a85a1df8a"
+
+[update]
+[update.modrinth]
+mod-id = "L83JDWD9"
+version = "bOGaf8Q5"

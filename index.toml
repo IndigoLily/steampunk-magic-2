@@ -1,8 +1,83 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/almostunified/unify.pw.toml"
+hash = "2ba16f16f09034335f891312f1040e6e0a51fe4bbb5ab33b02bdaf9466c93204"
+metafile = true
+
+[[files]]
+file = "config/do_a_barrel_roll-client.pw.toml"
+hash = "befc55ae81c0b553e4f1c0b5e30d6fd53f7b4e851b8e8723fe30cb7747015469"
+metafile = true
+
+[[files]]
+file = "config/do_a_barrel_roll-server.pw.toml"
+hash = "eae0468c6fe43e1bdc560d1e1aace2f17040c2b442d1a78bab69e3b910792677"
+metafile = true
+
+[[files]]
 file = "config/fabric_loader_dependencies.pw.toml"
 hash = "c366283309facef4f1795f134eb97ed27845f0c8e926143c215f0ffbd908be99"
+metafile = true
+
+[[files]]
+file = "config/modernfix-mixins.pw.toml"
+hash = "bf66a8c681c387e6db24e2da9cc326ad83b2494b3638cbe5862986f9585a4653"
+metafile = true
+
+[[files]]
+file = "config/numismatic-overhaul.pw.toml"
+hash = "5d1b1a97451ce55c1482b53b00f99cb65bec01f77866b54755c8712635415394"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/bcbc.pw.toml"
+hash = "a9a7c675b88de5a8c9bf1dee98978311b169c0e0f40f429a1ba3477cb72f56c8"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/continents.pw.toml"
+hash = "63894996ca90d5da99ed85c2622767fc1e82cf2a2573b59701ae3ac7c8f28969"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/create-immersive-aircrafts-data-pack.pw.toml"
+hash = "da2b8d37867c5029ce53b23a99449edd6d71861a61cc953a36d8d27789712f09"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/create-man-of-many-planes.pw.toml"
+hash = "c50129aa317d40203eccd2b6cfc8d365971bc6330e9e16252218aefb43f5f12c"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/incendium.pw.toml"
+hash = "26c35fe16f1d3b6e54905985f0593dd86dd21c103d29b34572b4422bfd058b26"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/no-more-villages.pw.toml"
+hash = "e2cbdfdf4504f5bca57829e361860d7d63336348351672fbce3fe1f4db564569"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/tc-deactivate-portals.pw.toml"
+hash = "83125318f8d6f3f37862925ad9d0ff3c05bc4a88a32099d27dff4b825a587fc6"
+metafile = true
+
+[[files]]
+file = "config/supplementaries-client.pw.toml"
+hash = "89eee16eb8db225853c1d8b48324b88b0749f744b1dd558d8f5f8bf0428c9bb0"
+metafile = true
+
+[[files]]
+file = "config/waystones-common.pw.toml"
+hash = "cdeae9fa2133b0321e88068b1ac1afc244f912bd92c997cd122a09f3e732cf03"
+metafile = true
+
+[[files]]
+file = "config/zenith/adventure.pw.toml"
+hash = "623f1950125edd4c8bb2e0c06057124196d9696e135b5122bdd29c2a7de3fdea"
 metafile = true
 
 [[files]]
@@ -586,6 +661,11 @@ hash = "b4db824c83bb9476a4b9b13d9a4af28998d9fbf1ad24071514662fd0c81190be"
 metafile = true
 
 [[files]]
+file = "mods/steampack2-origins.pw.toml"
+hash = "35394b333e42454fa63cee160d7b83325a580dc38f1c9108041970bac0018f5a"
+metafile = true
+
+[[files]]
 file = "mods/structure-pool-api.pw.toml"
 hash = "0714532ce3dc614172e9dcbafbfb0f1a2321f3e49c9ec97d3d701dafb6f9029d"
 metafile = true
@@ -653,4 +733,19 @@ metafile = true
 [[files]]
 file = "mods/zenith.pw.toml"
 hash = "ab681289d84b642bcb6db74a8e8343f22621c89bd84e03f18700c4c79aa9baf4"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-immersive-aircrafts-resource-pack.pw.toml"
+hash = "9216bbb94380ea12be93d405fa9c803715e6efbfc273a485d3c2c8207ee14f82"
+metafile = true
+
+[[files]]
+file = "resourcepacks/ewewukeks-3d-musket.pw.toml"
+hash = "431bb839e8fff8393a9997619697f8186650bfd96c51249519a50e3c1541f267"
+metafile = true
+
+[[files]]
+file = "resourcepacks/sparkles.pw.toml"
+hash = "e86dba2a5206dc7206d5aa16678ba3ccaf1bc9dbbfe2cacbeb9bf6d971138878"
 metafile = true
