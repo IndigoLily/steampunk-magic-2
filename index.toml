@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/almostunified/unify.pw.toml"
-hash = "2ba16f16f09034335f891312f1040e6e0a51fe4bbb5ab33b02bdaf9466c93204"
+hash = "9179e0c51ddc2e9a8d2d8c52d2e5852a79ae67adeb1db0703225fafe30822a07"
 metafile = true
 
 [[files]]

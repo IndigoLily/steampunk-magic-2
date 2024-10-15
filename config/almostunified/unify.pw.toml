@@ -1,6 +1,6 @@
 name = "Almost Unified Config"
 filename = "unify.json"
-side = "server"
+side = "both"
 
 [download]
 url = "https://lilyc.gay/steampunk-magic-2/config/almostunified/unify.json"
