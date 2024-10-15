@@ -207,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi-ores.pw.toml"
-hash = "bbaea729b709272743221c0f7553a5628e344aab499690adef306c861971bacb"
+hash = "0506bdcc0d01763d61ab86c2352fd3153b9010f62b12144749aa5e618996652f"
 metafile = true
 
 [[files]]
