@@ -61,6 +61,11 @@ hash = "e2cbdfdf4504f5bca57829e361860d7d63336348351672fbce3fe1f4db564569"
 metafile = true
 
 [[files]]
+file = "config/paxi/datapacks/our-origins.pw.toml"
+hash = "6f4c74a5cb7f21772966f7fd16e288ce8c8af05078866e03c477a1fb47bbe98f"
+metafile = true
+
+[[files]]
 file = "config/paxi/datapacks/tc-deactivate-portals.pw.toml"
 hash = "83125318f8d6f3f37862925ad9d0ff3c05bc4a88a32099d27dff4b825a587fc6"
 metafile = true
@@ -658,11 +663,6 @@ metafile = true
 [[files]]
 file = "mods/spell-power.pw.toml"
 hash = "b4db824c83bb9476a4b9b13d9a4af28998d9fbf1ad24071514662fd0c81190be"
-metafile = true
-
-[[files]]
-file = "mods/steampack2-origins.pw.toml"
-hash = "35394b333e42454fa63cee160d7b83325a580dc38f1c9108041970bac0018f5a"
 metafile = true
 
 [[files]]
