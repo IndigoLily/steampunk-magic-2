@@ -1,0 +1,1 @@
+resourcePacks:["vanilla","fabric","minecraft:supporteatinganimation","Moonlight Mods Dynamic Assets","file/ewewukek\u0027s ЗD Musket.zip","file/Create Immersive Aircrafts Resource Pack 1.20.1 - 2.0.zip","createfood:create","createfood:farmers_delight","createfood:farmers_respite","file/Sparkles_1.21_v1.0.7.zip"]

@@ -736,6 +736,11 @@ hash = "ab681289d84b642bcb6db74a8e8343f22621c89bd84e03f18700c4c79aa9baf4"
 metafile = true
 
 [[files]]
+file = "options.txt"
+hash = "aa36d3648ccfd0dbdc6d4ee6a5838fc56faaca3f06597e5c46291c9291469a13"
+preserve = true
+
+[[files]]
 file = "resourcepacks/create-immersive-aircrafts-resource-pack.pw.toml"
 hash = "9216bbb94380ea12be93d405fa9c803715e6efbfc273a485d3c2c8207ee14f82"
 metafile = true
