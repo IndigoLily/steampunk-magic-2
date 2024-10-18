@@ -2,6 +2,11 @@ name = "Clickthrough 2.0"
 filename = "clickthrough-0.0.2-1.20.1.jar"
 side = "client"
 
+[option]
+optional = true
+default = true
+description = "Allows you to right-click containers through items frames or signs"
+
 [download]
 url = "https://cdn.modrinth.com/data/ERHOxvaH/versions/Z3d7LN8h/clickthrough-0.0.2-1.20.1.jar"
 hash-format = "sha512"

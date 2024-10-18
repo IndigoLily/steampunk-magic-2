@@ -2,6 +2,11 @@ name = "Sound Physics Remastered"
 filename = "sound-physics-remastered-fabric-1.20.1-1.4.5.jar"
 side = "client"
 
+[option]
+optional = true
+default = true
+description = "Adds physically based reverb, but may use too much CPU for potatoes"
+
 [download]
 url = "https://cdn.modrinth.com/data/qyVF9oeo/versions/MmKSrFU9/sound-physics-remastered-fabric-1.20.1-1.4.5.jar"
 hash-format = "sha512"

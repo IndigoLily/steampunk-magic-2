@@ -2,6 +2,11 @@ name = "Mouse Wheelie"
 filename = "mousewheelie-1.13.0+mc1.20.1.jar"
 side = "client"
 
+[option]
+optional = true
+default = true
+description = "Makes lots of quality of life changes to inventory screens, but can be a bit buggy"
+
 [download]
 url = "https://cdn.modrinth.com/data/u5Ic2U1u/versions/wPtDzPBH/mousewheelie-1.13.0%2Bmc1.20.1.jar"
 hash-format = "sha512"
