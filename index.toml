@@ -66,6 +66,11 @@ hash = "6f4c74a5cb7f21772966f7fd16e288ce8c8af05078866e03c477a1fb47bbe98f"
 metafile = true
 
 [[files]]
+file = "config/paxi/datapacks/steampack2-compat.pw.toml"
+hash = "74c057b217af3c76110b613bbb79af67a46bcb6e67484e2f48eced706222009a"
+metafile = true
+
+[[files]]
 file = "config/paxi/datapacks/tc-deactivate-portals.pw.toml"
 hash = "83125318f8d6f3f37862925ad9d0ff3c05bc4a88a32099d27dff4b825a587fc6"
 metafile = true

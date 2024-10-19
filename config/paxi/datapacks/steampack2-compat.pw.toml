@@ -1,0 +1,15 @@
+name = "steampack2-compat"
+filename = "Steampack2Compat.zip"
+side = "server"
+
+[download]
+url = "https://github.com/IndigoLily/steampack2-compat/releases/download/0.1.0/Steampack2Compat.zip"
+hash-format = "sha256"
+hash = "72c262a962b794d6de156bda05aaaa5d895c1ab9f17f103ec330869a3fc81676"
+
+[update]
+[update.github]
+branch = "main"
+regex = "Steampack2Compat\\.zip"
+slug = "IndigoLily/steampack2-compat"
+tag = "0.1.0"
