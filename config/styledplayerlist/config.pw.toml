@@ -1,0 +1,8 @@
+name = "Styled Playerlist Config"
+filename = "config.json"
+side = "server"
+
+[download]
+url = "https://lilyc.gay/steampunk-magic-2/config/styledplayerlist/config.json"
+hash-format = "sha256"
+hash = "1ea9bf8451e4183e0145a808e7dbb18b7878078fe431ae4ca107ed33b0e67032"

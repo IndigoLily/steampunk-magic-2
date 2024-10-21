@@ -1,0 +1,8 @@
+name = "Styled Playerlist Style"
+filename = "default.json"
+side = "server"
+
+[download]
+url = "https://lilyc.gay/steampunk-magic-2/config/styledplayerlist/styles/default.json"
+hash-format = "sha256"
+hash = "4a315a13a921043e8aedce822fe0f5cb551224f8bf810e9de5aaa9dc2c40485e"

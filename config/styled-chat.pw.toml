@@ -1,0 +1,8 @@
+name = "Styled Chat Config"
+filename = "styled-chat.json"
+side = "server"
+
+[download]
+url = "https://lilyc.gay/steampunk-magic-2/config/styled-chat.json"
+hash-format = "sha256"
+hash = "37fb677dd9b01c9ee8e9c5f34b984c15162ea7b30c0d674dd0b0c58f483dccf1"

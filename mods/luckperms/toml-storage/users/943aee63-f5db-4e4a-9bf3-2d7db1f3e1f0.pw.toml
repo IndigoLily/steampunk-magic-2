@@ -1,0 +1,8 @@
+name = "Indigo__Lily Perms"
+filename = "943aee63-f5db-4e4a-9bf3-2d7db1f3e1f0.toml"
+side = "server"
+
+[download]
+url = "https://lilyc.gay/steampunk-magic-2/mods/luckperms/toml-storage/users/943aee63-f5db-4e4a-9bf3-2d7db1f3e1f0.toml"
+hash-format = "sha256"
+hash = "e1a08476a08aeb336ecaec9a01d5fde0dbf19c584f6dab4ef0ff386a23b4c0d8"

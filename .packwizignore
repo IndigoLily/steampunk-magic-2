@@ -1,3 +1,4 @@
 /config/**/*.*
+/mods/luckperms/**/*.*
 !*.pw.toml
 /addlocal

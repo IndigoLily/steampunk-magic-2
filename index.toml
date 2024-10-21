@@ -26,6 +26,11 @@ hash = "439449df69b32e423630eb370cb5c88f3741a6152fb0a8706f9acd2e68e87782"
 metafile = true
 
 [[files]]
+file = "config/luckperms/luckperms.pw.toml"
+hash = "7842554cfb290ae2a39bf6e6cdeab768ead14809410b23f3f6431ca4952db3b2"
+metafile = true
+
+[[files]]
 file = "config/modernfix-mixins.pw.toml"
 hash = "bf66a8c681c387e6db24e2da9cc326ad83b2494b3638cbe5862986f9585a4653"
 metafile = true
@@ -78,6 +83,26 @@ metafile = true
 [[files]]
 file = "config/paxi/datapacks/tc-deactivate-portals.pw.toml"
 hash = "83125318f8d6f3f37862925ad9d0ff3c05bc4a88a32099d27dff4b825a587fc6"
+metafile = true
+
+[[files]]
+file = "config/styled-chat.pw.toml"
+hash = "a75b6cf698409db78e11b9dae190f90265917ccf7f8431e15132f83de3e0c788"
+metafile = true
+
+[[files]]
+file = "config/styled-nicknames.pw.toml"
+hash = "f781956a10cad597ebd1c3dff3d65c374be1dcbd8ea15ef01ad15afe8b7c969a"
+metafile = true
+
+[[files]]
+file = "config/styledplayerlist/config.pw.toml"
+hash = "2c6da6ac7db62389cd56423e063e5f5dc120f7aa6035f7be9c549b946ba0e8dc"
+metafile = true
+
+[[files]]
+file = "config/styledplayerlist/styles/default.pw.toml"
+hash = "67dcd0d6f98ed25a3aab6430059cc8a9a9c6f4914037ae86731c39ed39298fb6"
 metafile = true
 
 [[files]]
@@ -208,6 +233,11 @@ metafile = true
 [[files]]
 file = "mods/chalk.pw.toml"
 hash = "e0fe3a15675b2f6ad147699a546a09bccd45492df57f721ffa524a2f5b380595"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "fd77e006784011c82874203471f3d5a2af44aa817803344e252b2d9d35d12cdf"
 metafile = true
 
 [[files]]
@@ -506,6 +536,23 @@ hash = "470d30cd94b769b646f714432ba4cd01969910f6016957a6b218d2d2900d914c"
 metafile = true
 
 [[files]]
+file = "mods/luckperms.pw.toml"
+hash = "ed322399f2f703b5cc9f6652d85e8eb215a53c7acbeef27964c0d6af7400561a"
+metafile = true
+
+[[files]]
+file = "mods/luckperms/toml-storage/groups/admin.pw.toml"
+hash = "e8dc9b71982cce9127549f7cd9b139a3fbc1880837da94cd5ca444730ef77bc4"
+metafile = true
+preserve = true
+
+[[files]]
+file = "mods/luckperms/toml-storage/users/943aee63-f5db-4e4a-9bf3-2d7db1f3e1f0.pw.toml"
+hash = "bc9cf67b1628045446b14faffe1b12d3d395f013bedbe87fd357338cf31f15f9"
+metafile = true
+preserve = true
+
+[[files]]
 file = "mods/man-of-many-planes.pw.toml"
 hash = "9c75a2572604803f8e03d00c98ef3b971fad40f9560676d564064a26e32b7a20"
 metafile = true
@@ -631,6 +678,11 @@ hash = "43b4a9ca9aaac5a16ed067aee92cafaf30d6166d62d7fa851179c6257ed75b59"
 metafile = true
 
 [[files]]
+file = "mods/player-pronouns.pw.toml"
+hash = "9c6c5f7e4981da29d42aab28b995a8910a51e6320a38cb6f6e379a26967c0ced"
+metafile = true
+
+[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "7ad4ca488da13998ce660729167eef71ce1bdfb57ef1c5d593096fa459cec0f8"
 metafile = true
@@ -728,6 +780,21 @@ metafile = true
 [[files]]
 file = "mods/structure-pool-api.pw.toml"
 hash = "0714532ce3dc614172e9dcbafbfb0f1a2321f3e49c9ec97d3d701dafb6f9029d"
+metafile = true
+
+[[files]]
+file = "mods/styled-chat.pw.toml"
+hash = "7a79b956ae03dc5f12cc66eaa5ddac541e50ada2e20340c06ea665a2d696c18b"
+metafile = true
+
+[[files]]
+file = "mods/styled-nicknames.pw.toml"
+hash = "df3dab0a368d87080cf735e0c0a253962e47a9ed6b40054736b52e375a471e2d"
+metafile = true
+
+[[files]]
+file = "mods/styledplayerlist.pw.toml"
+hash = "1bffb178939b0d524650e480efb38f419310b08e24c6fdb7eeb1d3a0038e5c8e"
 metafile = true
 
 [[files]]

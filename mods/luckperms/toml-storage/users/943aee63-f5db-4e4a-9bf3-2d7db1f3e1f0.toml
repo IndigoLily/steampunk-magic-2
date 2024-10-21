@@ -1,0 +1,6 @@
+uuid = "943aee63-f5db-4e4a-9bf3-2d7db1f3e1f0"
+name = "Indigo__Lily"
+primary-group = "admin"
+
+[[parents]]
+group = "admin"

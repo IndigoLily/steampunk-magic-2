@@ -1,0 +1,8 @@
+name = "Styled Nicknames Config"
+filename = "styled-nicknames.json"
+side = "server"
+
+[download]
+url = "https://lilyc.gay/steampunk-magic-2/config/styled-nicknames.json"
+hash-format = "sha256"
+hash = "759005d6950b0a5924101da53f0d5a936c746da14572ce5c3cb90f4bf4cda8c2"

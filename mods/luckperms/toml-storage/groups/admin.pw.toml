@@ -1,0 +1,8 @@
+name = "Admin Group"
+filename = "admin.toml"
+side = "server"
+
+[download]
+url = "https://lilyc.gay/steampunk-magic-2/mods/luckperms/toml-storage/groups/admin.toml"
+hash-format = "sha256"
+hash = "fd193a2c319d0de957083dab650736589a6ff07d19f5b76d3a737e483df9acd5"

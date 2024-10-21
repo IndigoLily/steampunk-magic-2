@@ -1,0 +1,10 @@
+{
+  "style_name": "Default",
+  "update_tick_time": 20,
+  "list_header": [
+    "<gray>Online: <white>%server:online%/%server:max_players%</white> | TPS: %server:tps_colored%",
+    ""
+  ],
+  "list_footer": [],
+  "hidden_in_commands": false
+}
