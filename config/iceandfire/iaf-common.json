@@ -117,8 +117,8 @@
         "attackDamage": 7.0
     },
     "seaSerpent": {
-        "spawnChance": 0.004,
-        "griefing": true,
+        "spawnChance": 0.001,
+        "griefing": false,
         "baseHealth": 20.0,
         "attackDamage": 4.0
     },
