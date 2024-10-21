@@ -21,6 +21,11 @@ hash = "c366283309facef4f1795f134eb97ed27845f0c8e926143c215f0ffbd908be99"
 metafile = true
 
 [[files]]
+file = "config/iceandfire/iaf-common.pw.toml"
+hash = "6b5b8481cfbcdc2cff124b2f8f3116a044df320dad1575a42a9013dcc5a1d0d5"
+metafile = true
+
+[[files]]
 file = "config/modernfix-mixins.pw.toml"
 hash = "bf66a8c681c387e6db24e2da9cc326ad83b2494b3638cbe5862986f9585a4653"
 metafile = true

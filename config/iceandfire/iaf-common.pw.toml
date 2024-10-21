@@ -1,0 +1,8 @@
+name = "Ice and Fire Server Config"
+filename = "iaf-common.json"
+side = "server"
+
+[download]
+url = "https://lilyc.gay/steampunk-magic-2/config/iceandfire/iaf-common.json"
+hash-format = "sha256"
+hash = "24bcc8ba4d28db8de3b527a051434052f71f880c7ad1a1fb0c0571ee08281eff"
