@@ -5,4 +5,4 @@ side = "server"
 [download]
 url = "https://lilyc.gay/steampunk-magic-2/config/luckperms/luckperms.conf"
 hash-format = "sha256"
-hash = "8506c5e91106ce8601c6031fa07d613186f2ccfaa2583a210ae7994f4d272794"
+hash = "ffedc87201f8ba28d25e662d15d388c7ff1e6882a07292ff2d1db55460edf378"
