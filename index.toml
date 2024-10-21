@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "config/iceandfire/iaf-common.pw.toml"
-hash = "6b5b8481cfbcdc2cff124b2f8f3116a044df320dad1575a42a9013dcc5a1d0d5"
+hash = "d17a4bd43ab18f1329307a61acca6c926afba8b2acd3cae71725e6c82dd286e2"
 metafile = true
 
 [[files]]

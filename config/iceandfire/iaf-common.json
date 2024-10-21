@@ -43,7 +43,7 @@
         "fightSpeedMod": 1.0
     },
     "pixie": {
-        "spawnChance": 0.016666666666666666,
+        "spawnChance": 0.0016666666666666666,
         "size": 5,
         "stealItems": true
     },
