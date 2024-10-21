@@ -544,13 +544,11 @@ metafile = true
 file = "mods/luckperms/toml-storage/groups/admin.pw.toml"
 hash = "e8dc9b71982cce9127549f7cd9b139a3fbc1880837da94cd5ca444730ef77bc4"
 metafile = true
-preserve = true
 
 [[files]]
 file = "mods/luckperms/toml-storage/users/943aee63-f5db-4e4a-9bf3-2d7db1f3e1f0.pw.toml"
 hash = "bc9cf67b1628045446b14faffe1b12d3d395f013bedbe87fd357338cf31f15f9"
 metafile = true
-preserve = true
 
 [[files]]
 file = "mods/man-of-many-planes.pw.toml"
