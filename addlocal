@@ -1,0 +1,38 @@
+#!/usr/bin/env nu
+
+def main [
+    file: path # The file to add
+    name: string # The display name of the file
+    side: string # Which side the file is for (must be "client", "server", or "both")
+    --force (-f) # Overwrite the destination
+] {
+    if $side not-in [client server both] {
+        error make --unspanned {
+            msg: $'Invalid side: "($side)"'
+            help: 'Must be "client", "server", or "both"'
+        }
+    }
+
+    if $file ends-with ".pw.toml" {
+        error make --unspanned {msg: 'Cannot add .pw.toml files'}
+    }
+
+    let contents = {
+        name: $name
+        filename: (basename $file)
+        side: $side
+        download: {
+            url: $'https://lilyc.gay/steampunk-magic-2/($file | path relative-to $env.FILE_PWD)'
+            hash-format: sha256
+            hash: (open $file --raw | hash sha256)
+        }
+    } | to toml
+
+    let dest = $file | path parse | update extension "pw.toml" | path join
+
+    if $force {
+        $contents | save --force $dest
+    } else {
+        $contents | save $dest
+    }
+}
