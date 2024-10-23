@@ -241,6 +241,11 @@ hash = "fd77e006784011c82874203471f3d5a2af44aa817803344e252b2d9d35d12cdf"
 metafile = true
 
 [[files]]
+file = "mods/chest-tracker.pw.toml"
+hash = "bf6b7021c763890667e8ad1e9611452a2b450ba8b26e50d0315ce9479b747368"
+metafile = true
+
+[[files]]
 file = "mods/chunky-extension.pw.toml"
 hash = "28ffbaeee6a9331f5a08458718e1b9e39127bec8dad7af8e14ec277e6b6c3837"
 metafile = true
@@ -828,6 +833,11 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "f3b842bc7de06b5449f7b12123a9009b24097c2e1d8951188a5d418ea1471d0f"
+metafile = true
+
+[[files]]
+file = "mods/where-is-it.pw.toml"
+hash = "767c411176b5c88bdaf6d79f9c051bab1c5fb1da1badeae2d7adf419982a8c45"
 metafile = true
 
 [[files]]
