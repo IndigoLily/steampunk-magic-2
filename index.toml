@@ -47,47 +47,47 @@ metafile = true
 
 [[files]]
 file = "config/paxi/datapacks/bcbc.pw.toml"
-hash = "a9a7c675b88de5a8c9bf1dee98978311b169c0e0f40f429a1ba3477cb72f56c8"
+hash = "811d678a9d05190207070537fd53ff305f62c8effebb4724cc38e6637b27e978"
 metafile = true
 
 [[files]]
 file = "config/paxi/datapacks/continents.pw.toml"
-hash = "63894996ca90d5da99ed85c2622767fc1e82cf2a2573b59701ae3ac7c8f28969"
+hash = "c77e2488054797824c10fcb684a039fccb3c7627f9659bc1e75cfe5663d90920"
 metafile = true
 
 [[files]]
 file = "config/paxi/datapacks/create-immersive-aircrafts-data-pack.pw.toml"
-hash = "da2b8d37867c5029ce53b23a99449edd6d71861a61cc953a36d8d27789712f09"
+hash = "df6327bcae316104c22901b9359106b2459569039ea412d8fa7055c67ed5e967"
 metafile = true
 
 [[files]]
 file = "config/paxi/datapacks/create-man-of-many-planes.pw.toml"
-hash = "c50129aa317d40203eccd2b6cfc8d365971bc6330e9e16252218aefb43f5f12c"
+hash = "a8a98fddc0d8d415aae2bc727e7eb8acf9580c1786ed28ac837aa4bd70f0163a"
 metafile = true
 
 [[files]]
 file = "config/paxi/datapacks/incendium.pw.toml"
-hash = "26c35fe16f1d3b6e54905985f0593dd86dd21c103d29b34572b4422bfd058b26"
+hash = "449aa5833f6ad606fc4eda7dde3a640a44bc788285d9184c0a489f4fef65211b"
 metafile = true
 
 [[files]]
 file = "config/paxi/datapacks/no-more-villages.pw.toml"
-hash = "e2cbdfdf4504f5bca57829e361860d7d63336348351672fbce3fe1f4db564569"
+hash = "0b8682417be7d93d78891cf6325ae0d2ba727b004c15d1571ac78ff5b54f6b71"
 metafile = true
 
 [[files]]
 file = "config/paxi/datapacks/our-origins.pw.toml"
-hash = "8d946db8bed3b2c4f8d86f93a4186dd8320f249a6221e6e0340cc6842ba6ff45"
+hash = "520ff6961d701d3c78cf0e4fa60bed2440dd7aac26f31b0905377882397af395"
 metafile = true
 
 [[files]]
 file = "config/paxi/datapacks/steampack2-compat.pw.toml"
-hash = "74c057b217af3c76110b613bbb79af67a46bcb6e67484e2f48eced706222009a"
+hash = "06d43a5c500806aad9ca437d13de923fa11d475ed51f19e56ffb1c48ed6748f0"
 metafile = true
 
 [[files]]
 file = "config/paxi/datapacks/tc-deactivate-portals.pw.toml"
-hash = "83125318f8d6f3f37862925ad9d0ff3c05bc4a88a32099d27dff4b825a587fc6"
+hash = "919488cfb5fff158d6ebb0659c280adaacc891da0c8bca1543c46c66ac14b189"
 metafile = true
 
 [[files]]
@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "config/paxi/resourcepacks/sparkles.pw.toml"
-hash = "e86dba2a5206dc7206d5aa16678ba3ccaf1bc9dbbfe2cacbeb9bf6d971138878"
+hash = "ff17cf7d2bb908d42ac6d9820c3166a2b8c9c70b9788ed415cabaac03891ffe1"
 metafile = true
 
 [[files]]
@@ -187,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/astrocraft.pw.toml"
-hash = "7f5ee89108798dc4d3e13824ced34fad66108100732a26ea924f3d04382b62a2"
+hash = "235da79d8d0831df81bf4930672f73bc2949526bcaac9f7a859b0bc72bdb4339"
 metafile = true
 
 [[files]]
@@ -217,7 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/bewitchment.pw.toml"
-hash = "97eb763cd10ffb37e84e683187353239c67231f1ca837b5de6231edb06f43cee"
+hash = "1e77bb42d892684f7ccdccf6b82169d9bb0eb339f40bc7014ef871253a877815"
 metafile = true
 
 [[files]]
@@ -252,12 +252,12 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "fd77e006784011c82874203471f3d5a2af44aa817803344e252b2d9d35d12cdf"
+hash = "3811e560e5c08806170c284abb484baa91e44e9b649e8c18d12ba6563b4e0b0f"
 metafile = true
 
 [[files]]
 file = "mods/chest-tracker.pw.toml"
-hash = "bf6b7021c763890667e8ad1e9611452a2b450ba8b26e50d0315ce9479b747368"
+hash = "cfd9c99e2f63ea48665613ffbaf1c4703df5cee27282ff45b44594e5320bd9da"
 metafile = true
 
 [[files]]
@@ -272,12 +272,12 @@ metafile = true
 
 [[files]]
 file = "mods/cicada.pw.toml"
-hash = "5704d8e8d0c5d8e840c2fbd0da3759a18b7a8d47985ac77ca30aa65913b15339"
+hash = "2bdd30f77cc7ab6f34104f85841de60c60f9d89af665969e5bdcd8a6ae329a2d"
 metafile = true
 
 [[files]]
 file = "mods/cit-resewn.pw.toml"
-hash = "306076a0a0ed006dc6b19892ae46059233661120efa9d01b7185861c533a4593"
+hash = "d2e1ad62031e3700de73a87957a4acca747436a4135da695705cb5d293aa0890"
 metafile = true
 
 [[files]]
@@ -292,7 +292,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "a22a8fdcae0455822f1c3722c75f4bcd3f0ac340ccd3a453f8b1497b3ab4cf4f"
+hash = "a0f2e11e55aa98b13ca469e8cee71d38a16a2ed0fba99b95fb0664adfc93e838"
 metafile = true
 
 [[files]]
@@ -323,6 +323,11 @@ metafile = true
 [[files]]
 file = "mods/create-food.pw.toml"
 hash = "f39db66d66abb140eb3a1b0c503455173948c5f5561033d08d85e6804945f6f6"
+metafile = true
+
+[[files]]
+file = "mods/create-power-loader-fabric.pw.toml"
+hash = "bf8514a56af755dd22d7ef3994e0c6e33d4db963eea2688fdbe466f998e123b2"
 metafile = true
 
 [[files]]
@@ -482,7 +487,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "dc7e14814b269d5c55fb7663e8c9faae4861345c9e8da02ca121c6cd150adef0"
+hash = "833b1287b354055fb177a43dce452e9a2aaf4e40a58529e2e0649bd5d24bfcfe"
 metafile = true
 
 [[files]]
@@ -502,12 +507,12 @@ metafile = true
 
 [[files]]
 file = "mods/iceandfire-fabric.pw.toml"
-hash = "345bcdfb71543a5dca30014f41d96610c6db3ba074342f68113b10454411fe9b"
+hash = "86dc896f87022f6fc1bbcde8a5353ca50f90c0fcb1842b51767f97eb6b8bdc19"
 metafile = true
 
 [[files]]
 file = "mods/iceberg.pw.toml"
-hash = "8448edb1ac227ae3c264abbe50e2744f8b75fc2e34abe16c234caf21ca031970"
+hash = "f669b069214a8e88d17066ff6715fe131568cd190450ba408b4c2c5479a1a263"
 metafile = true
 
 [[files]]
@@ -547,7 +552,7 @@ metafile = true
 
 [[files]]
 file = "mods/jupiter.pw.toml"
-hash = "0a4b5f484c37be31b0d5d2a6f734e4c706d33fca91f752aeea27b8ddb9ace723"
+hash = "8c0a9da0290d65e0dbb6bb75bb06be260330fe990b1d521e421eec55faa63cdd"
 metafile = true
 
 [[files]]
@@ -607,7 +612,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "9941ec11ec88cfce6236d3580284423c5ff389e9b29a36001edd00642fdd72ef"
+hash = "176a6b5f5278675b50ad34a18bee133f42395f31b935f25a5419ccfcf24adaf7"
 metafile = true
 
 [[files]]
@@ -842,7 +847,7 @@ metafile = true
 
 [[files]]
 file = "mods/uranus.pw.toml"
-hash = "3c499ac5a02064f6244a50c0f5c4db5f633cbadfa45fdff6e4eb6d4837317ff1"
+hash = "9c00332748c3b7fd4f15161f6fc9e20d022a9d9430e6f978c9616e39c0b8f3c8"
 metafile = true
 
 [[files]]
@@ -852,7 +857,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "f3b842bc7de06b5449f7b12123a9009b24097c2e1d8951188a5d418ea1471d0f"
+hash = "68fd939911d8be91a3d276485e52872a22dec1d3a57d83f903527bce38bba946"
 metafile = true
 
 [[files]]
@@ -867,7 +872,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "c32210e2e879228fcf4b9b7c459076db36b0ab0c06008919921676dd3208b882"
+hash = "59ad9368b47a15f1bbf5389597dd698e487fcbcdfcc3f794a090cb810df3d72d"
 metafile = true
 
 [[files]]
@@ -897,5 +902,5 @@ preserve = true
 
 [[files]]
 file = "resourcepacks/ewewukeks-3d-musket.pw.toml"
-hash = "431bb839e8fff8393a9997619697f8186650bfd96c51249519a50e3c1541f267"
+hash = "93f8c016276774f471e222b7a8d49a7245fa544dd8337684d602ce40d62bde15"
 metafile = true

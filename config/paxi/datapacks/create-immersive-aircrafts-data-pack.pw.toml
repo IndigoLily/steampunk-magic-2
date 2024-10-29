@@ -1,6 +1,7 @@
 name = "Create Immersive Aircrafts - Recipes"
 filename = "Create Immersive Aircrafts Datapack 1.20.1 - 1.2.zip"
 side = "server"
+pin = true
 
 [download]
 hash-format = "sha1"

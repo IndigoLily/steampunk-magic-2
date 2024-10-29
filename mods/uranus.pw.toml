@@ -1,13 +1,13 @@
 name = "Uranus"
-filename = "Uranus-1.7.jar"
+filename = "Uranus-1.7.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/3Acxy864/versions/wxtnrYIP/Uranus-1.7.jar"
+url = "https://cdn.modrinth.com/data/3Acxy864/versions/MSGUcQEI/Uranus-1.7.1.jar"
 hash-format = "sha512"
-hash = "d8b1c7835dce70abf4cc4a5ab7de7d8dc1c5f69781cd1db4e4dd4097f21be327361884f2172b156449bbb5d1cdd2f2e47133518560789893b2f81bc499277fd9"
+hash = "6b742073cfcab43f2d4d65bca87f1da91a5190ca1b90dafe96687e960a0314843b65b3225e812ddd035d6e99e3a12a95c0138dd3fb197c1702e9f00af46b1f78"
 
 [update]
 [update.modrinth]
 mod-id = "3Acxy864"
-version = "wxtnrYIP"
+version = "MSGUcQEI"

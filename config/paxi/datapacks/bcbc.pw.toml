@@ -1,6 +1,7 @@
 name = "Better Combat Bewitchment Compatibility (BCBC)"
 filename = "Better-Combat-Bewitchment-Compat.zip"
 side = "server"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/rqv8E8n5/versions/qRcVN1VO/Better-Combat-Bewitchment-Compat.zip"

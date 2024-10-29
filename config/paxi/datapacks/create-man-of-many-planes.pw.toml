@@ -1,6 +1,7 @@
 name = "Create Man of Many Planes"
 filename = "Create-Man-of-Many-Planes-1.0.zip"
 side = "server"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/F4Rdk2PX/versions/kklrVPdq/Create-Man-of-Many-Planes-1.0.zip"

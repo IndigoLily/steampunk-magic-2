@@ -1,6 +1,7 @@
 name = "ewewukek's 3D Musket"
 filename = "ewewukek's ЗD Musket.zip"
 side = "both"
+pin = true
 
 [download]
 hash-format = "sha1"

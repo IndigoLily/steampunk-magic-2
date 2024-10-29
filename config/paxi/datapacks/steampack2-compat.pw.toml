@@ -1,6 +1,7 @@
 name = "steampack2-compat"
 filename = "Steampack2Compat.zip"
 side = "server"
+pin = true
 
 [download]
 url = "https://github.com/IndigoLily/steampack2-compat/releases/download/0.1.0/Steampack2Compat.zip"

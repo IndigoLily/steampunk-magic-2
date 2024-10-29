@@ -1,6 +1,7 @@
 name = "Our Origins"
 filename = "OurOrigins.zip"
 side = "server"
+pin = true
 
 [download]
 url = "https://github.com/IndigoLily/steampack2-origins/releases/download/v0.7.0/OurOrigins.zip"
