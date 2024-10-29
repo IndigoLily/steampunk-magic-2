@@ -86,6 +86,16 @@ hash = "83125318f8d6f3f37862925ad9d0ff3c05bc4a88a32099d27dff4b825a587fc6"
 metafile = true
 
 [[files]]
+file = "config/paxi/resourcepacks/create-immersive-aircrafts-resource-pack.pw.toml"
+hash = "9216bbb94380ea12be93d405fa9c803715e6efbfc273a485d3c2c8207ee14f82"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/sparkles.pw.toml"
+hash = "e86dba2a5206dc7206d5aa16678ba3ccaf1bc9dbbfe2cacbeb9bf6d971138878"
+metafile = true
+
+[[files]]
 file = "config/styled-chat.pw.toml"
 hash = "a75b6cf698409db78e11b9dae190f90265917ccf7f8431e15132f83de3e0c788"
 metafile = true
@@ -881,16 +891,6 @@ hash = "aa36d3648ccfd0dbdc6d4ee6a5838fc56faaca3f06597e5c46291c9291469a13"
 preserve = true
 
 [[files]]
-file = "resourcepacks/create-immersive-aircrafts-resource-pack.pw.toml"
-hash = "9216bbb94380ea12be93d405fa9c803715e6efbfc273a485d3c2c8207ee14f82"
-metafile = true
-
-[[files]]
 file = "resourcepacks/ewewukeks-3d-musket.pw.toml"
 hash = "431bb839e8fff8393a9997619697f8186650bfd96c51249519a50e3c1541f267"
-metafile = true
-
-[[files]]
-file = "resourcepacks/sparkles.pw.toml"
-hash = "e86dba2a5206dc7206d5aa16678ba3ccaf1bc9dbbfe2cacbeb9bf6d971138878"
 metafile = true
