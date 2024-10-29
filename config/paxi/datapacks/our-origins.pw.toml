@@ -3,13 +3,13 @@ filename = "OurOrigins.zip"
 side = "server"
 
 [download]
-url = "https://github.com/IndigoLily/steampack2-origins/releases/download/v0.6.2/OurOrigins.zip"
+url = "https://github.com/IndigoLily/steampack2-origins/releases/download/v0.7.0/OurOrigins.zip"
 hash-format = "sha256"
-hash = "9bbcbba59acd4aaed8cd1e458b73c7237832f84721ede49c496bd6ad547f8cc5"
+hash = "322b45ad45d057792f0bf68abc29e7dc89410c11fa01ec24a4d44d8816927a65"
 
 [update]
 [update.github]
 branch = "main"
 regex = "OurOrigins\\.zip"
 slug = "IndigoLily/steampack2-origins"
-tag = "v0.6.2"
+tag = "v0.7.0"
