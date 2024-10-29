@@ -701,6 +701,11 @@ hash = "9d924898135876e8719c7e59cebe9c31811f405d65ccbdaa9305ec47c10263b8"
 metafile = true
 
 [[files]]
+file = "mods/qdaa.pw.toml"
+hash = "8baa9a587fa7ee981890d6fd9c29551038b128b81207856e39a7bbc75732ffcf"
+metafile = true
+
+[[files]]
 file = "mods/ranged-weapon-api.pw.toml"
 hash = "c350fccb98a0ea4c3637bbcab7cb94fb9c504251e96d744712660966f7820f5b"
 metafile = true

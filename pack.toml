@@ -1,12 +1,12 @@
 name = "Steampunk Magic 2"
 author = "IndigoLily"
-version = "0.8.0"
+version = "0.8.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "3ab4056449677539f29943b8b49a01422136de0f64e4f4523c12d576ea4b0d0d"
+hash = "106c49f815b5ef9350b3b985bf33d78ba8bb5d771ab7a5a3ea94c1fe02d9cf25"
 
 [versions]
 fabric = "0.16.7"
