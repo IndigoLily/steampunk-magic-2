@@ -36,6 +36,11 @@ hash = "bf66a8c681c387e6db24e2da9cc326ad83b2494b3638cbe5862986f9585a4653"
 metafile = true
 
 [[files]]
+file = "config/modmenu.pw.toml"
+hash = "c15bb15ba742123ff5d13923b0d4f23dcc1f54a02142892d20c4463c33221cd7"
+metafile = true
+
+[[files]]
 file = "config/numismatic-overhaul.pw.toml"
 hash = "5d1b1a97451ce55c1482b53b00f99cb65bec01f77866b54755c8712635415394"
 metafile = true

@@ -1,0 +1,8 @@
+name = "Mod Menu Config"
+filename = "modmenu.json"
+side = "client"
+
+[download]
+url = "https://lilyc.gay/steampunk-magic-2/config/modmenu.json"
+hash-format = "sha256"
+hash = "9bf9c7274479143beb2e7be27e3e11564582def60ee94c72a659a5aaa8a59eeb"
