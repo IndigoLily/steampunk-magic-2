@@ -331,6 +331,11 @@ hash = "bf8514a56af755dd22d7ef3994e0c6e33d4db963eea2688fdbe466f998e123b2"
 metafile = true
 
 [[files]]
+file = "mods/createtweaker.pw.toml"
+hash = "56fbd2d0a672a2d2ba33ae700369e90b02e016d43273e0faa06f041ed6c85f0b"
+metafile = true
+
+[[files]]
 file = "mods/dcch.pw.toml"
 hash = "8bb42e10b9186eab74b247c4c5b44d43b5f75c930fccca1b9ed1de508e18218d"
 metafile = true
@@ -903,4 +908,9 @@ preserve = true
 [[files]]
 file = "resourcepacks/ewewukeks-3d-musket.pw.toml"
 hash = "93f8c016276774f471e222b7a8d49a7245fa544dd8337684d602ce40d62bde15"
+metafile = true
+
+[[files]]
+file = "scripts/flasks.pw.toml"
+hash = "fcee8efefb66b224cc0bfc242281bb0df9410dcfdbd58092e5e4de23d6bbfbf1"
 metafile = true

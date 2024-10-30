@@ -1,0 +1,8 @@
+name = "Flask Spout Recipes"
+filename = "flasks.zs"
+side = "server"
+
+[download]
+url = "http://localhost:8080/scripts/flasks.zs"
+hash-format = "sha256"
+hash = "2a81bcaea6a7aa0f97ee4c36740eccd0f3f7a2a19330d4b2ad577a268966024f"
