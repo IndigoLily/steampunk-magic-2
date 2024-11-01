@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://lilyc.gay/steampunk-magic-2/config/zenith/adventure.cfg"
-hash-format = "sha512"
-hash = "6d3ae402dd1092963aeb8d1abb81c0d56a4a5fa8a79e1a89a7cd1c2f0f3214d38e2082225d8457384dc98a5eaa7ddfa9e3629ba57a90eccefde412caa88e3ef2"
+hash-format = "sha256"
+hash = "263463844c8ddca5b2dd1e9d4e0cfffb99f722f7b56af7e5ec954cd66f9c2e58"
