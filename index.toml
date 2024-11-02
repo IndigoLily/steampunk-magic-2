@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "config/paxi/datapacks/our-origins.pw.toml"
-hash = "520ff6961d701d3c78cf0e4fa60bed2440dd7aac26f31b0905377882397af395"
+hash = "99454cb1f4917c33dc9fe6154963e36a3f03813083c32e7ee3302817c96d2340"
 metafile = true
 
 [[files]]
@@ -228,11 +228,6 @@ metafile = true
 [[files]]
 file = "mods/botarium.pw.toml"
 hash = "2f57caef93731338be19b1e14065978eb3e14dbfc0c1f9699dfcc2f201e2c23b"
-metafile = true
-
-[[files]]
-file = "mods/c2me-fabric.pw.toml"
-hash = "066bcf27ce64eeaeb8e595f3768743c02e3a5fa2f7338357a523b8a72f0814df"
 metafile = true
 
 [[files]]
